@@ -10,4 +10,4 @@ Eu sou Nauara Melo, desenvolvedora Web Full Stack, apaixonada por tecnologia e p
 
 ⚡ Habilidades Profissionais: 
 
-MYSQL | Javascript | HTML | CSS | Git | AWS | Node.js | React.js | Github | Typescript | Unit Testing | Firebase | Jest
+.NET Core | C# | Java | MYSQL | Javascript | HTML | CSS | Git | AWS | Node.js | React.js | Github | Typescript | Unit Testing | Firebase | Jest
